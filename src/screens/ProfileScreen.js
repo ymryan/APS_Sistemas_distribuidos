@@ -44,9 +44,9 @@ export default function ProfileScreen() {
 
       <View style={styles.card}>
         <Text style={styles.cardTitle}>Grupo</Text>
-        <InfoRow icon="person" label="Integrante 1" value="Nome — RA: XXXXXXX" />
-        <InfoRow icon="person" label="Integrante 2" value="Nome — RA: XXXXXXX" />
-        <InfoRow icon="person" label="Integrante 3" value="Nome — RA: XXXXXXX" />
+        <InfoRow icon="person" label="Integrante 1" value="GUSTAVO MATOS DA COSTA — RA: N932341" />
+        <InfoRow icon="person" label="Integrante 2" value="RYAN MAURICIO BATISTA SILVA — RA: N766212" />
+        <InfoRow icon="person" label="Integrante 3" value="VÍTOR DE SOUZA SILVA — RA: N010FF0" />
       </View>
     </ScrollView>
   );
